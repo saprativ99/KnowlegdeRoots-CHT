@@ -1,1 +1,1 @@
-test
+testprint("Hello, World!")
